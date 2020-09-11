@@ -1,0 +1,25 @@
+{
+    "require": {
+        "php": "^7.3.0",
+        "setasign/fpdi-fpdf": "^1.6.2",
+        "simshaun/recurr": "^4.0",
+        "firebase/php-jwt": "*",
+        "ext-json": "*",
+        "ext-redis": "*",
+        "pda/pheanstalk": "v4.0.0",
+        "guzzlehttp/psr7": "1.4.2",
+        "guzzlehttp/guzzle": "*",
+        "codeception/codeception": "4.1.4",
+        "codeception/module-phpbrowser": "^1.0.0",
+        "codeception/module-asserts": "^1.0.0",
+        "robmorgan/phinx": "0.11.6",
+        "ext-curl": "*"
+    },
+    "require-dev": {
+        "phalcon/devtools": "^4.0",
+        "codeception/module-rest": "^1.2",
+        "codeception/module-phalcon": "^1.0",
+        "codeception/module-datafactory": "1.0.0",
+        "codeception/module-redis": "1.0.0"
+    }
+}

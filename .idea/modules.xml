@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$USER_HOME$/PhpstormProjects/atbonus/.idea/atbonus.iml" filepath="$USER_HOME$/PhpstormProjects/atbonus/.idea/atbonus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../invo-master/.idea/invo-master.iml" filepath="$PROJECT_DIR$/../invo-master/.idea/invo-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/localhost.iml" filepath="$PROJECT_DIR$/.idea/localhost.iml" />
+    </modules>
+  </component>
+</project>

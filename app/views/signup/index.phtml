@@ -1,0 +1,26 @@
+
+
+<h2>Sign up using this form</h2>
+
+<?php echo $this->tag->form(["signup/register", 'class'=>'form-signin']); ?>
+
+<p>
+    <label for="name">Name</label>
+    <?php echo $this->tag->textField(["name", 'class'=> 'form-control', 'placeholder'=>'First name']); ?>
+</p>
+
+<p>
+    <label for="email">Email</label>
+    <?php echo $this->tag->textField(["email", 'class'=> 'form-control', 'placeholder'=>'Email address']); ?>
+</p>
+<p>
+    <label for="password">Password</label>
+    <?php echo $this->tag->textField(["password", 'class'=> 'form-control', 'placeholder'=>'Password']); ?>
+</p>
+<p>
+    <?php echo $this->tag->submitButton(["Register", 'class'=> 'btn btn-primary']); ?>
+</p>
+
+</form>
+
+</body>
